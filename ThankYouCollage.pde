@@ -1,4 +1,3 @@
-//add thank you code here
 PImage img;
 
 void setup() {
@@ -29,3 +28,4 @@ if(mouseY>450)
   fill(random(255,80));
   ellipse(270,60,100,100);
  }
+ 
